@@ -3,8 +3,7 @@
 
 # 🚀 Starter-Template
 
-A modern Python FastAPI starter app, with Docker, Poetry, GitHub Actions CI, linting, and test automation — built as part of the **120-Day Junior Python Developer Sprint**.
-
+A modern Python FastAPI starter template with built-in support for testing, linting, type checking, Docker, and CI.  Includes Poetry for dependency management, pre-commit hooks for code quality, and GitHub Actions for continuous integration — ready to clone and build APIs, microservices, or full-stack apps.
 ---
 
 ## 🧰 Tech Stack
