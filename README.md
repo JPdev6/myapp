@@ -3,7 +3,9 @@
 
 # 🚀 Starter-Template
 
+
 A modern Python FastAPI starter template with built-in support for testing, linting, type checking, Docker, and CI.  Includes Poetry for dependency management, pre-commit hooks for code quality, and GitHub Actions for continuous integration — ready to clone and build APIs, microservices, or full-stack apps.
+
 ---
 
 ## 🧰 Tech Stack
